@@ -3,7 +3,7 @@
  * Plugin Name: Restaurant Chatbot
  * Description: Un chatbot digital para hostelerÃ­a con menÃº de navegaciÃ³n, disparadores automÃ¡ticos, galerÃ­a de imÃ¡genes y captura de leads.
  * Version: 1.0
- * Author: Antigravity
+ * Author: Marco Daza
  */
 
 if (!defined('ABSPATH')) {
